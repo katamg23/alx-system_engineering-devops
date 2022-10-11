@@ -1,1 +1,1 @@
-Task 0
+task 0 shell 
